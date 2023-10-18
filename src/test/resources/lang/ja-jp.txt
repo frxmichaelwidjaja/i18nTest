@@ -1,0 +1,6 @@
+lang; ja-jp
+title; Bluetooth®テクノロジーウェブサイト
+login-link btn btn-black; ログイン
+menu-item-426; SIGに参加する
+menu-item-55419; Bluetoothについて学ぶ
+menu-item-417; Bluetoothで開発

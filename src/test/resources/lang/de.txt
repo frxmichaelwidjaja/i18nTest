@@ -1,0 +1,6 @@
+lang; de
+title; Website zur Bluetooth®-Technologie
+login-link btn btn-black; Anmeldung
+menu-item-426; Beitritt zum SIG
+menu-item-55419; Erfahren Sie mehr über Bluetooth
+menu-item-417; Entwickeln Sie mit Bluetooth

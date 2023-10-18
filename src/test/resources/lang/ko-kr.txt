@@ -1,0 +1,6 @@
+lang; ko-kr
+title; 블루투스 ® 기술 웹 사이트
+login-link btn btn-black; 로그인
+menu-item-426; SIG 가입
+menu-item-55419; Bluetooth에 대해 알아보기
+menu-item-417; 개발 Bluetooth

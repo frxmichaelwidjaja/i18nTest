@@ -1,0 +1,6 @@
+lang; en
+title; Bluetooth® Technology Website
+login-link btn btn-black; Login
+menu-item-426; Join the SIG
+menu-item-55419; Learn About Bluetooth
+menu-item-417; Develop with Bluetooth

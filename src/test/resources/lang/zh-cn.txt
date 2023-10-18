@@ -1,0 +1,6 @@
+lang; zh-cn
+title; Bluetooth® 技术网站
+login-link btn btn-black; 登入
+menu-item-426; 加入蓝牙技术联盟
+menu-item-55419; 了解 Bluetooth
+menu-item-417; 蓝牙开发
